@@ -12,9 +12,9 @@ Jumpstart helps to unclutter and strengthen your WordPress project by removing s
 * RSD Links (Really Simple Discovery)
 * Windows Live Writer Manifest references
 * Index link
-* Previous Posts Linl
+* Previous Posts Link
 * Start Posts Link
-* Adjacent Posts Linl
+* Adjacent Posts Link
 * WordPress Version Reporting
 * Login Form Errors
 * Inline styles from comments and the WordPress gallery
